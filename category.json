@@ -1,0 +1,45 @@
+{
+    "programming Language": [
+      "php",
+      "javascript",
+      "go",
+      "scala",
+      "fortran",
+      "Html",
+      "Css",
+      "mysql",
+      "python"
+    ],
+    "movies": [
+      "Prestige",
+      "Inception",
+      "Parasite",
+      "Interstellar",
+      "It",
+      "Memento",
+      "Coco",
+      "Up"
+    ],
+    "famous people": [
+      "Albert Einstein",
+      "Hitchcock",
+      "Alexander",
+      "Cleopatra",
+      "Ghandi",
+      "William Shakespeare",
+      "Beethoven"
+    ],
+    "Arab countries": ["Syria", "Palestine", "Saudi", "Egypt", "Bahrain", "Qatar"],
+    "Footballers": [
+        "Messi",
+        "Cristiano Ronaldo",
+        "Xavi",
+        "Iniesta",
+        "Mohammed Salah",
+        "Ibrahimovic",
+        "Neymar", 
+        "Ozil", 
+        "Mbappe",
+        "Ronaldinho"
+      ]
+}
